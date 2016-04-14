@@ -24,8 +24,8 @@ public final class AppInfo {
   }
 
   private void initMetrics() {
-    this.screenWidth = ScreenUtils.getScreenWidth();
-    this.screenHeight = ScreenUtils.getScreenHeight();
+//    this.screenWidth = ScreenUtils.getScreenWidth();
+//    this.screenHeight = ScreenUtils.getScreenHeight();
   }
 
   private void initDeviceId(Context context) {
