@@ -5,9 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/MeyuBaseLibrary.iml" filepath="$PROJECT_DIR$/MeyuBaseLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/MeyuBaseLibrarySample.iml" filepath="$PROJECT_DIR$/MeyuBaseLibrarySample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary2/mylibrary2.iml" filepath="$PROJECT_DIR$/mylibrary2/mylibrary2.iml" />
     </modules>
   </component>
 </project>
